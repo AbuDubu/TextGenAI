@@ -102,11 +102,3 @@ model = tf.keras.models.load_model('TextGenAI.keras')
 
 - The quality of text generation is highly dependent on the quality of training data and the complexity of the model.
 - The temperature parameter significantly affects the output. A higher temperature results in more diverse but potentially less coherent text.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to modify the code and experiment with different text datasets, sequence lengths, and temperature values to observe how the model behaves under different conditions.
